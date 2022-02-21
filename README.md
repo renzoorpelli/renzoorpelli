@@ -1,5 +1,4 @@
-
-### Hi there,  I'm Renzo 👋
+### Hi there,  I'm Renzo
 
 ## I'm currently learning programming at UTN-Fra
 
@@ -7,6 +6,7 @@
 ### Connect with me:
 
 [<img align="left" alt="RenzoOrpelliLKDLN" width="32px" src="https://cdn.jsdelvr.net/npm/simple-icons@v3/icons/linkedin.svg"  />][LinkedIn]
+[![website](src="https://cdn.jsdelvr.net/npm/simple-icons@v3/icons/linkedin.svg")](www.linkedin.com/in/renzo-orpelli)
 
 <br />
 <br />
