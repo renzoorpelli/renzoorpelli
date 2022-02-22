@@ -8,7 +8,7 @@
 
 ## Connect with me 📲: 
 
-<a href="https://linkedin.com/in/renzo-orpelli">
+<a href="https://linkedin.com/in/renzo-orpelli" target="_blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=150>
 </a>
 
@@ -18,7 +18,7 @@
 
 ## Check my projects:
 
-<a href="https://github.com/renzoorpelli?tab=repositories">
+<a href="https://github.com/renzoorpelli?tab=repositories" target="_blank">
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width=150">
 </a>
 
