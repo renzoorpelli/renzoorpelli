@@ -2,7 +2,7 @@
 
 ## About me:
 
--  I'm Currently learning Programming at UTN-Fra 📚
+-  I'm Programing student at UTN-Fra 📚
 -  Learning C# 👩‍💻
 
 
