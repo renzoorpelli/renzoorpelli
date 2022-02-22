@@ -36,8 +36,3 @@
 <img align="left" alt="Git" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Arduino" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="Eclipse" width="60" src="src/icons/eclipse.png"/>
-
-<br />
-<br />
-
----
