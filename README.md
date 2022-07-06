@@ -3,7 +3,7 @@
 ## About me:
 
 -  I'm Programing student at UTN-Fra 📚
--  Learning C# 👩‍💻
+-  C# .NET 👩‍💻
 
 
 ## Connect with me 📲: 
