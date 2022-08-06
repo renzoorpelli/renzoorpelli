@@ -4,7 +4,6 @@
 
 -  I'm Programing student at UTN-Fra 📚
 -  C# .NET 👩‍💻
--  Learning ASP.NET
 
 ## Connect with me 📲: 
 
