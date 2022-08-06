@@ -2,7 +2,7 @@
 
 ## About me:
 
--  I'm Programing student at UTN-Fra 📚
+-  I'm Programming student at UTN-Fra 📚
 -  C# .NET 👩‍💻
 
 ## Connect with me 📲: 
