@@ -2,7 +2,7 @@
 
 ## About me:
 
--  .Net Developer
+-  .NET Developer
 
 ## Connect with me 📲: 
 
