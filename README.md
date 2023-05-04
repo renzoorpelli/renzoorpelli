@@ -2,5 +2,6 @@
 
 ## About me:
 
--  .NET Developer
+-  .NET Developer.
+-  C# Enthusiast.
 
