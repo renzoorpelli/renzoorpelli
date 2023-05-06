@@ -3,5 +3,5 @@
 ## About me:
 
 -  .NET Developer.
--  C# Enthusiast.
+-  C#.
 
