@@ -2,6 +2,5 @@
 
 ## About me:
 
--  .NET Developer.
--  C#.
+-  Backend Developer
 
