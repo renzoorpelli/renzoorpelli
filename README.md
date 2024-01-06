@@ -1,6 +1,9 @@
 # Hi there, I'm Renzo 👋 
 
-## About me:
-
--  Backend Developer
+## Interests:
+-  .NET & Golang
+-  Software Architecture
+-  Cloud Native Development
+-  Networking
+-  DevOps
 
