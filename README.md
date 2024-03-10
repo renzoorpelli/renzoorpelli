@@ -3,8 +3,6 @@
 ## Interests:
 -  .NET & Golang
 -  Software Architecture
--  Open Source
+-  OSS
 -  Cloud Native Development
--  Networking
--  DevOps
 
