@@ -4,5 +4,3 @@
 -  .NET & Golang
 -  Software Architecture
 -  OSS
--  Cloud Native Development
-
