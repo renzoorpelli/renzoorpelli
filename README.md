@@ -1,6 +1,6 @@
 # Hi there, I'm Renzo 👋 
 
 ## Interests:
--  .NET & Golang
+-  Primarily working with .NET ecosystem.
 -  Software Architecture
 -  OSS
